@@ -2,7 +2,7 @@ Flask==0.11.1
 Jinja2==2.8
 MarkupSafe==0.23
 PyYAML==3.11
--e git://github.com/Axilent/talkback@09ca6eced59e492f1b3dcbdfb52952fa3882c298#egg=Talkback-master
+-e git://github.com/Axilent/talkback@64d25cf54e26648d66a8cfb285b585bf56fb53e5#egg=Talkback-master
 Werkzeug==0.11.10
 click==6.6
 gevent==1.1.1
